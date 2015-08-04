@@ -20,3 +20,5 @@ Make a brief summary:
 
 4.2 move state from commit to unstage && undo the changes you made to the files
 >>> git reset --hard HEAD^
+
+Alright, I guess that's it for the 3 days of "lazy project turorial", from tomorrow, I would do something real.
